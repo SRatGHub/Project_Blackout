@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/Project_Blackout_Map.umap"
+			]
+		}
+	]
+}
