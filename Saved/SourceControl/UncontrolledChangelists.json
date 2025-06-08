@@ -6,7 +6,37 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/Project_Blackout_Map.umap"
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/Project_Blackout_Map.umap",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Player_Character/Player_Controller_BP.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Inputs/Input_Crouch.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Inputs/Input_Interact.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Inputs/NewInputMappingContext.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Player_Character/Player_Char_BP.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Inputs/Input_Look.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Player_Character/Stealth_Game.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/Project_Blackout.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/AI_Character/AI_Controller_BP.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/AI_Character/AI_BB.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/AI_Character/AI_BT.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/AI_Character/AI_Character.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/AI_Character/Tasks/Wander.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/AI_Character/Tasks/Focus.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/AI_Character/Tasks/Chase.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Interface/Int_Interface.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Interactables/Pickup.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Box2_849ED372.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Box2_Merge_8A595F35.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Box2_Merge_VoxelMergedMeshes_16AFEB21.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Box_0660BB6B.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Box_19CC5BB2.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Box_73AA2D5D.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Combined_85D4F03D.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Combined_B2B4BA50.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Map/_GENERATED/User/Combined_F1AB75FB.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Counters_And_Tables/Table.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Counters_And_Tables/NewBlueprint.uasset",
+				"C:/Users/User/OneDrive/Documents/Unreal Projects/Final_Project/Content/Counters_And_Tables/Combined_85D4F03D.uasset"
 			]
 		}
 	]
